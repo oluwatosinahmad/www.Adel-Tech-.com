@@ -1,0 +1,48 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    color: white;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+}
+
+.blue {
+    background-color: blue;
+    z-index: 1;
+    top: 100px;
+    left: 100px;
+}
+
+.red {
+    background-color: red;
+    z-index: 2;
+    top: 130px;
+    left: 130px;
+}
+
+.yellow {
+    background-color: yellow;
+    z-index: 3;
+    top: 160px;
+    left: 160px;
+    color: black; 
+}
+
+.green {
+    background-color: green;
+    z-index: 4;
+    top: 190px;
+    left: 190px;
+}
