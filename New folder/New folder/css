@@ -1,0 +1,87 @@
+/* General Styles */
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: 900;
+  color: rgb(18, 3, 3);
+}
+
+/* Parallax Hero Section */
+#title {
+  background-image: url('images/new.png');
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+/* Features Section */
+.feature-box {
+  perspective: 1000px;
+  margin-bottom: 20px;
+}
+
+.feature-box .card {
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+  position: relative;
+  height: 200px;
+}
+
+.feature-box:hover .card {
+  transform: rotateY(180deg);
+}
+
+.card-front, .card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+}
+
+.card-front {
+  background-color: #fff;
+  color: black;
+  text-align: center;
+}
+
+.card-back {
+  background-color: #FF4C68;
+  color: white;
+  transform: rotateY(180deg);
+  text-align: center;
+  padding: 20px;
+}
+
+/* Back to Top Button */
+.back-to-top {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  background-color: #FF4C68;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 50%;
+  display: none;
+}
+
+.back-to-top:hover {
+  background-color: #E63A57;
+  transform: scale(1.1);
+  transition: all 0.3s ease;
+}
+
+.back-to-top.show {
+  display: block;
+}
+
+/* Footer Icon Animation */
+#footer i {
+  transition: transform 0.3s;
+}
+
+#footer i:hover {
+  transform: scale(1.2);
+}
