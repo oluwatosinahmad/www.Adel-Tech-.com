@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf -8">
+   <title> Ahmad PERSONAL SITE</title>
+<link rel="stylesheet" href=" C:\Users\Icitify\Desktop\AHMAD\css\syle.css">
+  <body>
+<table cellspacing="20">
+<tr>
+<td><img src = "./ahmad.png" alr ="Ahmad profile picture"></td>
+<td><h1>ADEL TECH  </h1>
+  <p><em> Ceo of <strong><a href="https ://www.appbrewery.co/">Adel Tech <a/></strong>.</em></p>
+I Am an ios and Web development . I love taking jollof rice with coffee</P>
+</tr>
+</table>
+<hr>
+<h3>Boook and Teaching</h3>
+<ul>
+<li>The complete ios App Development Bootcamp</li>
+<li>The complete Web Devlopment Bootcamp</li>
+</ul>
+<a href ="hobbies.html">My hobbies</a>
+<a href="contact me.html">contact me</a>
+<h3>Work experience</h3> 
+<p>2022-2024 Lead developer at tempo app</p>
+<a>2021-2024 Researcher at the institute of Cognitive Neurosciences</a>
+<hr>
+<table border="1">
+<thead>
+<tr>
+<th>Date</th>
+<th>Work</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2022-2024</td>
+<td>Lead Developer at tempo app</td>
+</tr>
+<tr>
+<td>2021-2024</td>
+<td>Researcher at the institute of Cognitive Neurosciences </td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3>Skill</h3>
+<table cellspacing="15">
+<tr>
+<td> Ios Development </td>
+<td></td>
+</tr>
+<tr>
+<td>Web Development</td>
+<td></td>
+</tr>
+<tr>
+<td>Photography</td>
+<td></td>
+</tr>
+</table>
+</body>
+</html>

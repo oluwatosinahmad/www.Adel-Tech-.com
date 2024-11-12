@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>ahmad</title>
+        <link rel="stylesheet" href="C:\Users\Abdone\Documents\AHMAD\Css-My site\css\style.css">
+</head>
+<body>
+    <div class="top-container">
+        <img src="C:\Users\Abdone\Documents\AHMAD\Css-My site\css\Ahmad.png" >
+        <h1>1'am Ahmad.</h1>
+        <p>a <span class="pro">pro</span>grammer.</p>
+        <img  src="C:\Users\Abdone\Documents\AHMAD\Css-My site\css\mad.jpg" width=700" height="300">
+    </div>
+    <div class="middle-container">
+        <div class="profile">
+        <img src=""  alt=""
+        <h2> Hello.</h2>
+        <p> hjdjd</p>
+        </div>
+        <hr>
+    <div class="skills">
+        <h2>My skills</h2>
+        <div class="skill-rows">
+            <img src=""  alt=""
+            <h3>gdbhd</h3>
+            <p>hbhfg f</p>  
+        </div>
+    <div class="skills-row">
+        <img src=""  alt=""
+        <h3>gdbhd</h3>
+        <p>hbhfg f</p>  
+        </div>
+        </div>
+        <hr>
+        <div class="contact-me">
+            <h2>Get in Touch </h2>
+            <h3>gdbhd</h3>
+        <p>hbhfg f</p> 
+        <a class="btn" href="mailto:name@email.com">contactme</a>
+        </div>
+    </div>
+
+
+
+
+
+    <div class="bottom-secton">
+        <a href="footer-link" href="https:///www.linkedin.com/">LinkedIn</a>
+        <a href="footer-link" href="https:///www.linkedin.com/">Twitter</a>
+        <a href="footer-link" href="https:///www.linkedin.com/">Website</a>
+        <p> @ 2024 Ahmad Adelopo</p>
+    </div>
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>

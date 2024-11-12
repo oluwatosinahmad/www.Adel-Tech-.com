@@ -1,0 +1,51 @@
+
+h1 {
+    text-align: center;
+}
+
+.numbered-paragraphs p {
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+
+blockquote {
+    font-style: italic;
+    font-weight: bold;
+    padding: 15px;
+    border-left: 5px solid #ccc;
+    background-color: #f9f9f9;
+    margin: 20px auto;
+    width: 60%;
+}
+
+.highlighted-text p {
+    font-size: 16px;
+    color: #333;
+    padding: 10px;
+    background-color: #f0f0f0;
+}
+
+.warning-message p {
+    color: red;
+    font-weight: bold;
+    font-size: 18px;
+    border: 2px solid red;
+    padding: 10px;
+    background-color: #ffe6e6;
+    width: 50%;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.success-message p {
+    color: green;
+    font-weight: bold;
+    font-size: 18px;
+    border: 2px solid green;
+    padding: 10px;
+    background-color: #e6ffe6;
+    width: 50%;
+    margin: 20px auto;
+    text-align: center;
+}
